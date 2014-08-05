@@ -1,0 +1,2 @@
+LocalDate date = LocalDate.now();
+System.out.println(date);
